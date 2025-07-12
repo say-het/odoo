@@ -66,6 +66,17 @@ Skill Swap Platform is a mini application that allows users to list their skills
 
 ---
 
+# Photos
+
+<img width="1917" height="951" alt="image" src="https://github.com/user-attachments/assets/71ae52e7-8095-4451-9e3e-1c3b40cda6cd" />
+<img width="1902" height="961" alt="image" src="https://github.com/user-attachments/assets/77db0756-b389-4cbb-91ff-63b5e0d23279" />
+<img width="1911" height="887" alt="image" src="https://github.com/user-attachments/assets/8f50c273-5213-4cb8-956b-6bb6a76891d8" />
+<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/102aa57e-ab50-43c0-ae66-fc7eeb5d0c1d" />
+<img width="1891" height="881" alt="image" src="https://github.com/user-attachments/assets/098b4765-6c7d-451f-8cff-cd11b903cb3b" />
+<img width="1871" height="844" alt="image" src="https://github.com/user-attachments/assets/bb657b88-2811-4d0e-92fb-3b222afd9c91" />
+<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/9698cb13-8c7c-418d-8400-45d1a486f8dd" />
+
+
 ## Contributors
 
 * Het Modi
