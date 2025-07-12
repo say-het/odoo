@@ -1,7 +1,7 @@
 Problem Statement - 1: Skill Swap 
 BigBrains
 
-m.hetmodi@gmail.com
-23bce229@nirmauni.ac.in
-makwanaraj0012@gmail.com
-krishchothanick259@gmail.com
+Het Modi - m.hetmodi@gmail.com
+Jainil Patel - 23bce229@nirmauni.ac.in
+Raj Makwana - makwanaraj0012@gmail.com
+Krish Chothani - krishchothanick259@gmail.com
